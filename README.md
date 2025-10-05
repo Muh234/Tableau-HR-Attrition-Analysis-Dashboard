@@ -7,18 +7,18 @@ This Tableau project demonstrates end-to-end HR data analysis — from explorati
 
 
 ## 📘 Table of Contents
-1. [🧩 Understanding the Problem](#-understanding-the-problem)
-2. [🎯 Project Goal](#-project-goal)
-3. [⚙️ What I Did](#️-what-i-did)
-4. [🖥️ Dashboard Overview](#️-dashboard-overview)
-5. [🔍 Key Insights](#-key-insights)
-6. [📦 What’s Inside](#-whats-inside)
-7. [🧰 Tools & Skills Used](#-tools--skills-used)
-8. [🧠 Conclusion](#-conclusion)
+1. [ Understanding the Problem](#-understanding-the-problem)
+2. [ Project Goal](#-project-goal)
+3. [ What I Did](#️-what-i-did)
+4. [ Dashboard Overview](#️-dashboard-overview)
+5. [ Key Insights](#-key-insights)
+6. [ What’s Inside](#-whats-inside)
+7. [ Tools & Skills Used](#-tools--skills-used)
+8. [ Conclusion](#-conclusion)
 
 
 
-##  Understanding the Problem
+## Understanding the Problem
 
 Employee attrition — the rate at which employees leave an organization — is a growing concern for many companies.  
 High turnover leads to **increased hiring costs**, **reduced team morale**, and **loss of institutional knowledge**.
@@ -30,7 +30,7 @@ This project addresses that gap by presenting a clear, interactive view of attri
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 To create a clean, insightful, and interactive **Tableau dashboard** that simplifies the analysis of employee attrition data.
 
@@ -41,24 +41,24 @@ The goal is to enable HR professionals and decision-makers to:
 
 ---
 
-## ⚙️ What I Did
+## What I Did
 
 ###  Data Familiarization
 - Explored the HR attrition dataset containing attributes such as **age, gender, department, income, job satisfaction, work-life balance,** and **overtime**
 - Conducted exploratory data analysis (EDA) within Tableau to understand relationships and correlations between variables
 
-###  Data Cleaning
+### Data Cleaning
 - Removed duplicate entries  
 - Standardized categorical data (e.g., gender, department names)  
 - Ensured numeric data (income, years at company) were correctly formatted  
 - Verified consistency in attrition labels (“Yes/No”)  
 
-###  Data Modeling & Analysis
+### Data Modeling & Analysis
 - Created **calculated fields** to measure attrition rates by department and gender  
 - Designed **KPIs** showing average monthly income, satisfaction levels, and work-life balance  
 - Built **filters and parameters** for dynamic exploration across departments, gender, and years of service  
 
-###  Dashboard Creation
+### Dashboard Creation
 Developed an interactive Tableau dashboard featuring:
 - Visual cards showing overall attrition rate, average income, and satisfaction scores  
 - Charts for attrition by department, job satisfaction, and work-life balance  
